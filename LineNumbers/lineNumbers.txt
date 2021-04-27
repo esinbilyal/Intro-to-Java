@@ -1,0 +1,8 @@
+Line 1 → My name is Esin
+Line 2 → I am 23 years old
+Line 3 → I am Moodle Support Specialist at Adastra Bulgaria
+Line 4 → I am learning Java now
+Line 5 → I am a Computer Sciences and Technologies student
+Line 6 → I live in Plovdiv
+Line 7 → But I am from Haskovo
+Line 8 → I love cooking and playing chess
