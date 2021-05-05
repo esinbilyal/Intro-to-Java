@@ -1,0 +1,5 @@
+Why is this a violation of the open-closed principle (OCP)?
+
+Answer: OCP principle states that classes and methods in Java language should be open to extension and closed to manipulation.
+The given code snippet is not a good because we should modify the handleEvent() every time
+we implement a new event.
