@@ -1,0 +1,19 @@
+{
+  "accountNumber": 1,
+  "dateOfOpening": "May 10, 2021, 12:00:00 AM",
+  "interestRate": 0.15,
+  "accountBalance": 3510.3841975308637,
+  "accountType": "current",
+  "transactionHistory": [
+    {
+      "amount": 200.0,
+      "balance": 5200.0,
+      "date": "May 15, 2021, 12:00:00 AM"
+    },
+    {
+      "amount": 500.0,
+      "balance": 4029.7777777777774,
+      "date": "May 30, 2021, 12:00:00 AM"
+    }
+  ]
+}
